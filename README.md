@@ -1,3 +1,4 @@
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -5,15 +6,15 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version   - 2.2.2
 
-* System dependencies
+* System dependencies  
 
 * Configuration
 
-* Database creation
+* Database creation - sqlite3
 
-* Database initialization
+* Database initialization 
 
 * How to run the test suite
 
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# colony_management.api
+Rails api which is used for colony_management_client 
+
